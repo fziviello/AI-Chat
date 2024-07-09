@@ -1,2 +1,15 @@
-# AI-Chat
-UI for chat with an AI model
+# AI Chat
+
+**Author:** Fabio Ziviello
+
+### Usage
+
+- make
+- open http://localhost:8000 # in browser
+
+
+### Dependecies
+
+- Python3
+- Ollama
+- An model AI
