@@ -14,4 +14,4 @@
 - Ollama
 - An model AI
 
-![screenshot1](/screenshot1.png?raw=true)
+![screenshot1](/screenshot1.jpg?raw=true)
