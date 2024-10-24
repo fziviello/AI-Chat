@@ -12,6 +12,6 @@
 
 - Python3
 - Ollama
-- An model AI
+- An model AI (https://ollama.com/library)
 
 ![screenshot1](/Screenshot1.jpg?raw=true)
